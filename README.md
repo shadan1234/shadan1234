@@ -1,4 +1,7 @@
-### Hi👋, I'm Shadan
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shadan</h1>
+<h3 align="center">Welcome to my world of development</h3>
+
+## 🙋‍♂️ About Me
 
 - 👩🏻‍💻 I am sophomore Computer Science Undergraduate at National Institute of Technology, Rourkela
 - ☀️ Contributing to a few open-source projects (Open Source is always fun).
