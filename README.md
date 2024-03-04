@@ -1,11 +1,11 @@
-### Hello 👋
+### Hi👋, I'm Shadan
 
-- 🔭 I’m currently working on my development world 
-- 🌱 I’m currently learning Flutter , Node
+- 👩🏻‍💻 I am sophomore Computer Science Undergraduate at National Institute of Technology, Rourkela
+- ☀️ Contributing to a few open-source projects (Open Source is always fun).
+- 🏃 In absolute love with Flutter and building mobile applications with it.
 - 👯 I’m looking to collaborate on Flutter Development Projects
 - 📫 How to reach me: &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/shad-/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/Shadan_shaq) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/shadan_hussain22/)
 - 😄 Pronouns: He/Him
-- ⚡ Awaiting: Demon Slayer
 
 <p align="center">
 <span style="
